@@ -20,7 +20,7 @@ credentials = {
 
 ---
 
-## Tracking information Assignment
+## Tracking Information Assignment
 We are able to receive one vehicle information per request.
 
 ```ruby
